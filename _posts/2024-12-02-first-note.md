@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Note"
-date: YYYY-MM-DD
+date: 2024-12-02
 categories: [general]
 ---
 
